@@ -1,3 +1,7 @@
+#SOB 101: IDENTICAL TO ABOVE BUT THE PATTERN IS REPEATED
+# 3 TIMES TO CREATE A ZIG-ZAG PATTERN
+
+
 symbols = [[1,0,0,0,0,0,0,0,0,0],
            [0,1,0,0,0,0,0,0,0,0],
            [0,0,1,0,0,0,0,0,0,0],
