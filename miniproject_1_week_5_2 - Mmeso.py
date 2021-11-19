@@ -1,3 +1,6 @@
+#SOB 101: PRINT ASTERISK PATTERN USING A 2D LIST
+# TO SIMULATE A BALL BOUNCING OFF OF A WALL.
+
 symbols = [[0,1,0,0,0,0,0,0,0,0],
            [0,1,1,0,0,0,0,0,0,0],
            [0,1,1,1,0,0,0,0,0,0],
